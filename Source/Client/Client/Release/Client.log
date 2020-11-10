@@ -1,0 +1,16 @@
+﻿  Client.cpp
+d:\mang may tinh\thuc hanh\do an nhom\do an 2\new folder\source\client\client\client.cpp(4): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  d:\mang may tinh\thuc hanh\do an nhom\do an 2\new folder\source\client\client\client.cpp(4): note: Add macro to precompiled header instead of defining here
+  d:\mang may tinh\thuc hanh\do an nhom\do an 2\new folder\source\client\client\client.cpp(5): note: use of precompiled header
+d:\mang may tinh\thuc hanh\do an nhom\do an 2\new folder\source\client\client\client.cpp(29): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\mang may tinh\thuc hanh\do an nhom\do an 2\new folder\source\client\client\client.cpp(32): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+d:\mang may tinh\thuc hanh\do an nhom\do an 2\new folder\source\client\client\client.cpp(111): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\mang may tinh\thuc hanh\do an nhom\do an 2\new folder\source\client\client\client.cpp(201): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+d:\mang may tinh\thuc hanh\do an nhom\do an 2\new folder\source\client\client\client.cpp(307): warning C4018: '<': signed/unsigned mismatch
+d:\mang may tinh\thuc hanh\do an nhom\do an 2\new folder\source\client\client\client.cpp(304): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\mang may tinh\thuc hanh\do an nhom\do an 2\new folder\source\client\client\client.cpp(62): warning C4101: 'kt': unreferenced local variable
